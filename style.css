@@ -1,0 +1,41 @@
+.présentation {
+    background-color: #bac3c6;
+    border-radius: 25px;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #97d4e9;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.Expériences{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
+.pro{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
+.compétences{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
+
+.loisirs{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
+.langues{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
+.informations{
+    background-color: #bac3c6;
+    border-radius: 25px;
+}
